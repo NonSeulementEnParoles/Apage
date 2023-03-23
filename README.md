@@ -1,7 +1,7 @@
-# Completamente gratuita sendo mantida pelos proprios interessados por doações !
-# Criar um rede social para digital influencies !
-# Ideia inicial é criar em node.js
-# Possivel migração para outras linguagens como Exilir com o framework phoenix !
+### Completamente gratuita sendo mantida pelos proprios interessados por doações !
+### Criar um rede social para digital influencies !
+### Ideia inicial é criar em node.js
+### Possivel migração para outras linguagens como Exilir com o framework phoenix !
 
 
 -> Possivel inspiração ko-fi.com
